@@ -1,0 +1,185 @@
+nav ul li {
+list-style: none;
+display: inline-block;
+padding: 10px;
+text-decoration: black;
+align-items: center;
+
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  padding: 40px 70px;
+  width: 90%;
+  
+}
+
+.button{
+    float: right;
+    color: antiquewhite;
+    width: 5%;
+    height: 4%;
+    background-color: black;
+}
+.h1{
+  padding-left: 30px;
+  color: black;
+  font-size: 65px;
+  margin-top: 70px;
+
+  
+}
+
+.image{
+  width: 37%;
+  float: right;
+  margin-top: -10%;
+    margin-bottom:-22%;
+    margin-right: 27%;
+    
+}
+.f{
+  margin-left:75px ;
+  margin-top:-45px;
+}
+#c2{
+  font-size: 20px;
+  color: aliceblue;
+  background-color: black;
+  padding-left: 20px;
+  margin-left: 20px;
+
+}
+#image{
+  width:25% ;
+  float:left;
+  margin-top: 2%;
+}
+.tete{
+  align-items: center;
+  padding-top: 20%;
+  
+  
+}
+#ter{
+width: 150px;
+height: 200px;
+padding-left: 15%;
+
+}
+#ruh{
+  padding-left: 30%;
+  margin-top: -20%;
+  
+}
+.k{
+  padding-left: 50%;
+  margin-top: -8%;
+}
+.kakiu{
+  margin-top: -40%;
+  padding-left: 30%;
+}
+#top{
+  width:157px ;
+  height: 200px;
+  padding-left:53% ;
+  margin-top: -18%;
+  margin-bottom: -30%;
+
+
+  
+}
+.pro{
+  display: flex;
+  justify-content: space-between;
+  border: cornsilk;
+  
+}
+#adv{
+  text-align: center;
+}
+#track{
+  background-color: dimgrey;
+}
+#rel{
+  background-color: dimgrey;
+}
+#high{
+  background-color: dimgrey;
+}
+h1{
+  font-size: 30px;
+}
+.j1{
+  color: white;
+  background-color: black;
+}
+#picture{
+  width: 400px;
+  margin-left: 35%;
+  height: 350px;
+  margin-top: -15%;
+}
+#pic6{
+ width: 300px;
+ margin-left: 38%;
+ margin-top: -5%;
+ height: 200px; 
+}
+#pic7{
+  width: 200px;
+  margin-left: -10%;
+  margin-top:-5% ;
+  height: 100px;
+}
+.d2{
+  justify-content: space-between;
+  display:flex;
+}
+.img2{
+  margin-left: 10%;
+}
+.img3{
+  margin-left: 7%;
+}
+.pont1{
+     margin-top: -20%;
+     margin-left: 10%px;
+     font-size: 30px;
+}
+.pont2{
+  margin-left: 10%;
+  font-size: 30px;
+}
+#school{
+  width: 60%;
+  /* padding-left: 5%; */
+  /* padding-top: -1%;
+  margin-top: -1%; */
+}
+.pand{
+ padding-left: 40%;
+}
+.chat{
+  margin-left: 35%;
+  margin-top: -14.5%;
+
+}
+.support{
+  margin-left: 60%;
+  margin-top: -14.5%;
+}
+.download{
+  margin-left: 80%;
+  margin-top: -14%;
+}
+
+
+
+
+
+  
+
+
